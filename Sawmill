@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 50",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 4,
+      "max_y": 1,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:conveyor_basic"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAKVTsU7DMBC9JG5JzRewIYFYYWHpyooQA0PbJXLjS2IpsSvbaRu+HjtxIaAMFJLhvfP53p2fZQqwAMKZZRQA5hRmxjKLKZAX1iDci6ZBbcQeUZZCImohy6WxiHVmclYUquZuJXNFkjPNKdBXrXaorUCTwuXBaelalSVymBWsNgiQADVOh9XiHbVrCnQYwJPv3W+nu1eItkHL6kxoJc/Qu5nU0yYbhWfI3U3KVcj23R8VpwfMldxjp3S2ZUbkPyyeFyz3TcgBjf2349NHqkVZ2V8eaQHJThnilq7g84vcP2AcMAkZcor7DTGQaFTkdkUAITNgEpD0SII0gShgHA11SYjJqXUvMfNBj3HABIaRyCkfhXxApxNTmLtL5agd2apWcpMAadhx40UHuvISA1370T0Vcj1M7Onmi676aZzj0jt+8aR23fXjg7tJ1tpKaUif1eFNi+PReTlyOe0tud62on9yJeMlWrPkbdN02egyPgDvxS2A0gMAAA\u003d\u003d"
+}
