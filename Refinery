@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 22",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 4,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAK2TTU+EMBCGh8KuLP4IN2q8muxxr16N8eBhdy+k2gGalJa0ZT/89RYYFRMOfnGYZ/o170sHMoAFJIJ7ngHAPIOZ89xjCskDrxFuZV2jdXKPqEupEa3U5dp5RJW7F14URokwk4dDWnArMsgerWnQeokuhfNDqGWVKUsUMCu4cggQQ+ZCHa7kK9ogCtlgoEu+qt9MqlfI96d8NPODileTFa37ZbmLyXKFaqXIG9ng/17H9XQzKkRfo+cql9boP1+vkmXlv3kfC4gb45IwdQmjJ6LIaBwTkz4y2hDWo4/VqGNEZMSYmPTsY8+IGBMTYjg4rBNjYsLIEgyWop6zLjBywMgfIx1GOsM+GsfEhBgiIz1Geoz0WAbz8KEKtCF5Nq0WLrxHzY+7zsSQbjrJId2+z0q9HRx16e4z3fTuQ+d017mzO9OclqtVCnPe+spYSO/N4cnK4zH0ZNSttH/b5XMr+/+05KJE79airetTPmrqGyJdBqIHBAAA"
+}
