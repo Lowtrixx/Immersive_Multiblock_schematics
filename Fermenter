@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 18",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "minecraft:cauldron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAK1TTU+EMBR8FHZl8aY/wE00XtWb2atXYzx42N0L6W4f0KSlpC374a+3lJpFQ0w0EsIML52ZlyFkADNIGLU0A4BpBhNjqcUUkhcqEe64lKgN3yHWJa8RNa/LhbGIIjdbWhRKMDfJnahmVLMMsletGtSWo0nhfO+8tFBliQwmBRUGAWLIjPOhgr+jdqGQ9Qt05Gv67Wi64GVl88HkF47Xo47a/NHuatSuEC1necMb/N86LqSL2Gpa2MWWtoJpVX8LmAjcoYDo/je2N+PfuEK0Ei0VOXdBP/jNIG6USdzoEgZXFJ7EIwkD9+4xDkfi7hGdTiQQRT0SjxOISI+EBEvoLaOAxN9eR4KOBB0JOpLBtELKUDuyUW3NTAyJpId1p+/p8kRXn5TXq37Xjq5PdOm3cP3VXX9nT6o5zh8eU5jS1lZKQ/qs9m+aHw6um0Frqd96vmm5/2lKykq0ZsFaKY/5oNwPbM00pJQDAAA\u003d"
+}
