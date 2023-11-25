@@ -1,0 +1,71 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 9",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 1
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:conveyor_basic"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:fluid_pump"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAK1UTY/TMBCdNkk3GyQ4cWYlEFfO9MoVIQ4cdvcSTeNJYuGPaMbpB78eJ+4uZVWkheJEnhfLee/Ns+QK4BpyhQErACgrKCRgoBLyL2gJPmhriUVviVynHRFr160lEJlaGmxbb1RcqeNPTiGrCqqv7AfioElKeLGLXGx815GCokUjBJBBJZEHjf5BHEWhSgYm8Lv627PqLPXJ58V0jXdbOniuNyi6edLAqsVmEsl3JOHift6fNWB014d/bOnd+fPpiYKlgKbW7N1f8L05y9eaUat6GO3wh3gK5zn0Jbyyowl6Y3zzXQxu6ZjRxcH9b1t54PFyV69ttNIwtmHdMYrUs8ITL4U4vzs8g/0assFLHpdewuNYxCeN5cO8SHVxrMu5ZmlzmuKbH3dmR4pi2p/W57qCxXKqV7CMtYJVT6iII9j40SnJILe4v5/4ErydxBK8e4Da3SXtCd7/grez1ZiSm1JaffLD4eZjPBUcQ+8Zys9+9431fh9bPgmjnM3fbEY9Xykdqo6CrNVo7aE+yewnG+xav7IEAAA\u003d"
+}
