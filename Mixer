@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 27",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:steel_fence"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAK1TwWrDMAxVHLdLs9t+YIWNXQe7DHrddYwddmh7CW6tJIbEDraztvv6OU6aZiMUOmYH9CRLT+KJxAAzoJxZFgPANIaJscxiBPSNlQiPoixRG/GJKDMhEbWQ2cJYxCIxW5amquAukrgiyZnmMcTvWlWorUATwfXOcelCZRlymKSsMAgQQmwcDyvEF2rXFOJ2gAb87H472j0tasGTSlT4v90eRrsVIsttMohcwHg3yqjNH+nux5eRI9oSLSsSoZW8gG9+Zrkpyu1vfekOjQVqdY2jYkeOX9U2712KzBX0j1Lp/vHcYmYQVspQF7qB/gTuNoe425wQ2oDzg0FSm+c/4i3tQhQCb32+twFp7AQIgSMD6UhI55CunnT1JIZpjoyjdmCjaslNCLRk+3WT38LlCa6OUMhVO3MD1ye49F2dULLZx9WLqg7zp+cIpszJqDREr2r3ocV+7zQZqBX5KeebWvi/L2M8Q2sWvC7LQzIQ9RugpbZn3QMAAA\u003d\u003d"
+}
