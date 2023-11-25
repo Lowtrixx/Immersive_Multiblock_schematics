@@ -1,0 +1,36 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 46",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 6,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 50,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:treated_fence"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAH2SQU+DQBCFZ6dQKf6JxvgTTA+9ejXGg4faS7PKlG4Cu83u1rb+ehd4tpgYyYb3GBbexzAl0YyySkddEhGXlIeooxSUPetW6M60rfhgPkVsbayIN7ZeRi9pT7XZiv2QksoX7/bio5GQnjtKiJRvdRPSW26PaaNvXF1LdSnmwR3i7nKZiR49kVvnLzeJJlSGFKob8yU+EVI50HbmN+r9n6hhJxJbibrZGO/sP++b0WTvQpZKCxod3J9Vv7qTgjJ02JDqUIampKEOZShlqEMZSjnqUIbSFHUo/1zTZSnwKPAocChwKOQr5CvkKuQq5CnkKeQp5KlxK7hfwy30g5HPyGf0g8HB4GD0g8HD4GH0g8HF4GL0g8HH4GPwMfjS1E53oivxyby7g63ChLJWn9Yd72BXV/uW7LSzxnaWBru+2lX/tWmubDdXN49uf54/LAqa6jS2zlPx5I6v3pxOaWZG01T0/2X+fjBNlUav1lUtMSyrQ9ueN6Oh+wYf0021cwMAAA\u003d\u003d"
+}
