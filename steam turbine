@@ -1,0 +1,71 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 29",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 6
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:generator"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 15,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:radiator"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 13,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:storage_steel"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJVTPU/DMBR8cZw0Db8BqECwIrHRlRUhBobCUrnyq2spX7IdKPx67PgVWikDyeA7P/vOF+elBJgDl8KJEgBmJWTWCYcF8GdRI9zoukZj9Qdio3SDaHSjlnaH6Gp0olpbh1hBCqX1S6LS32i8D5TRM5BTw9tRw0qrnVsfVSY4no86GiG1cK2ZYHQxaqSwQTPR6Wr81ryJUDj5yi5H3bZVr+W60x2WUL6YtkPjNNoCzj691lStUigh24rKIkw47Xr8Ou0/v84c0q613Jfu4OhJCNlhRoUkiXOW/K4mARNCRujHWCdkA6YkSmlTGoYBgyUAD/tjnTBhFIHEJyaxkJIu1gm9LqXQnMLw30NiWk46Tu8T9zFaB8hIl5EuI12sE7IBsxAoI31GeXPKm1PenCzyQFlCcwZ5CfkOhUTjyabtG2lT4LXYvweTSFfBItK3A9XNW7yWQN//6Go43bdHE9pj9th2X4v7hwJy0bud/y2Kp/bz1ej93n/7o64ohrSLTa8r6VtGCanQ2aXs6/prfdQ8P8nWwZSBBAAA"
+}
