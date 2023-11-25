@@ -1,0 +1,92 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 0",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 4,
+      "max_y": 4,
+      "max_z": 4
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 27,
+          "item": {
+            "id": "immersiveengineering:blastbrick_reinforced"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:cauldron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 14,
+          "item": {
+            "id": "immersiveengineering:slab_sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:storage_steel"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAKWVu2/bMBCHTyTtKOpWoHvQoh26NLPXrkXQoUOSRaCks0yEEg2SfvWvLx/n2DFcIE4MQx95L/74kiqAaxCd9LICgKqCifPSYwniTg4I39UwoHVqjTj2akS0auxnTsumdgtEP6CXunYeUVdQ/bZmidYrdCHf75YI08Z4b4YSPmxCVatN32MHk7nUDgE4VC5UlFr9RQtx/CwlNl7q+DiEwVsr537WypXurBlPxptoXKOG4vaSsj/OTy9Op3atnM+N7oIlTFCOnbTdyZjvnNSXs6NbVx91Lyh3fq8aLZ1vrGqfaotqnBvbBrGvr/r5P0tkrOwx7/wF1b6draZVv/BvnPXX8/pODue7JS5QrndvlPjpcHh7K52rG23ap9Pz60az2b3iFF0DXxongukOjn4FPRn1eXoyENQTKUBAwTIZkbOXJQoiI3KiSEz5BeUXlJ/tnOxEnjihUimZUYdRXRb9gpilhzpERuQFxRHDk5EORjoY6chxez8nP5EnToGJyKvnJSqIjMjT/yrqCixjACddnHRx0pX8Yu9n5CdyYtDBSQcnHZx0cNIhItOihXqM+pwoyB4CRMwriIzIi+wXRY7PWz6NenIckTOqx/KSB13Zz3OfEwtBdkH2xPCNCKxgGu5Bh7aKL/bV2LmQNMjtY5xEbt4fmg/7phof6AyG5uOheZ9OXZA+xlsy/WmWu5vbEqZy5RfGQvnLbP5Ytd2G0Y8uQ5k27aZZqfRu7mXXo3ezbjUMu/rozvwDPvaVzdoGAAA\u003d"
+}
