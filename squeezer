@@ -1,0 +1,71 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 7",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:piston"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:steel_fence"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:wooden_barrel"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAM1UTU/jMBCdOG43hAsSP4BqkbjucaVe97pCHDgAl8itJ6mlxI5sh5T99Tt2UlqqCFTEgSjyG49n3jy9fOQAZ8Cl8CIHCnOYOS88ZsBvRYPwSzUNWqeeEXWlNKJVulo6j1gXbi3K0tSSMgU1aSmszCG/s6ZF6xW6DM574rK1qSqUMCtF7RAghdwRj6jVP7Q0FPJBQAjeTr+ZnF6rauOLg8wJjNeTjNZ9ku5qkq6sOyWLVrX4tXb8nJzWGyNRFythLdYnsF00RLG2ovTLVjlv9JHYDLcetXxVmsG8FOvgD5em16cIX7zzFpWo18c+8R6dB+5th5OmZcRvOr/ZlXAUVP96po2ls9P9/ZzM3dj3dO62g9BR9agz7r6Fm29VHtn5ocwzSFvjOKUu4eBKxpVFZGOC9hHTsSQNS7Kv4JAkA7KIM0hYwDkwNlLCQJmMyOId+9jYR/gj9BFmoY/lMN+gkGgpWJlOS5cCb8T2KfQP4cM+fNyFSj8OWkP4tA8fogryS4fHMv9j2pfFb/pMBJlpLGR/TX9v1XZL1hyYlkXRi1Wn4q+zErJC75aya5qX4sDb/7rzTgCaBQAA"
+}
