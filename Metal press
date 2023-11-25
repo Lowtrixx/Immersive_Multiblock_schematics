@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 25",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 0,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:conveyor_basic"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:piston"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAALVTPU/DMBC9NklJw8LCXgmJFQmJpSsrQgwMtEt0iS+pRWJHPqdJ+PU46SdVB4pEZMXvnu7jPVuOAKbgC7QYAcAkgoAtWgrBf8WS4EGWJRmWayKVS0VkpMrnbImKmFPMMl0Ix8SuSAk0IoLozeiKjJXEIVw3rpcpdJ6TgCDDggnAg4hdHyzkFxk3FKKNgB78nH53dnqq1Zo6beIEWaYnEycZpi4JAqWNXf2TAsPxUXhBu5vSFaUGMzuvJFutTtSH1FpSYi/14McXulGXKL8/q3xFuO7+KP72ID43yBwnhU4/TxwErHTT/eKkp+BVmn1HhbD/RsMCGG8Dr/+73e+p0TZpvM1ze9BH4wgmzpcg40CiayXYA7/Edtknb+BHX7iBix0r1WLHSrU8wCHXqfJV7/rqWVfd7PHJXQXWdqUNhC+6eTeybZ2HI3fhIHmW1HJ4EjmKnCzPRV2WXXx0CN/loI9xcgMAAA\u003d\u003d"
+}
