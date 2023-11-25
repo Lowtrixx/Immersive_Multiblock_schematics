@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 15",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 4
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "minecraft:hopper"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "immersiveengineering:steel_fence"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAN1VMa/TMBC+2E6bFxYW9kpPghExsHRlRYiB4b23RG58SS0Su7Id0vLrsZMr7asqRN+EyJDvbOe+7/PdSSkB7kAoGWQJMSwh90EGLEB8kT3Ce9336Lz+gWhabRCdNu3aB8Su8rVsGtupuFPFJKOkUyWUX53doQsafQGvxsjlOtu2qCBvZOcRgEPpI4/s9E90URTK2UAKnqvfX1V3vjpb3kD39ipdp9tteCHj6g/ladDUeFEPMaIPVIir1SmigB3CFkRwQ5JBGRNokRvrjke3lPFlLkn0/zL5+2x2eftIvu6jt9rJJqy3dhfdXNhaopGbLrog2UUj6zRTQtnR/PP1uLlrb07laJ30vtp0tv5+YS33xo6Hvyj2HfCd9SJuvYOzJyNkx1U2r7Ls+Senk4Q8vSOK9F3EHNiEiyk1YUbIJmSUerGYeRjpRVwmHkY8jHgY8TDyw8kPJx5OPJz8cOLhxMOJhxMPJwuC/AgSE3Q7QX7m/QmLlCdKWGxRqjSXi40djPIcRC/3T4lsDh+SpTl8PIbaPM62U/h0Ch+m28Rum9Tt5Se7O6w+fIxjLeMoWQfFZzt+c3q/j70762ox3X61GfT0e2ilajH4tRr6/lCdNf8XXyQl6n4GAAA\u003d"
+}
