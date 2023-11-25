@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 2",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 4
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 13,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 10,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJVSwU7DMAx1k2zqyk9MGnBF4rgrV4Q4cBi7VBnx2khtMiUp2/h60saDIk1iSyM999nPduIUADMQSgZZAMCkSDZwKDw6LRv9hS46oICJDzJgDuJFtgh3um3Ref2JaCptMAabaulrxNBikE3pA2LT6y5MeH82YaOrOpQj5oqMt/+1qJ01F+QroHh1docuaPQ53Owj5xpbVahgspWNRziVfDhfsr+K0n/I7dY2KjLxcqRR0qkrTrM4m9r5v5czA76zXkT9An5WFr+02C+VeHIwwoyNnEk3bDYgI4r1ugEZhURdRE4lyBn/GdDOEmaEjFJGHaN6nHScgjnpOOk46TjpOJ1EkE5QcUHnE72ZZcQTRp0oYFqjVOhymMou1NZB/mz3b04fDtG3sZ1RnoNotXlPjfXm6mTKw7qvmsw+gCVzdTK1WQ8txMGZfnDTJ7s7zh/jaEYTzoce55tODw+ikqrC4Jeqa9tjOXoI3ypnJ0SfAwAA"
+}
