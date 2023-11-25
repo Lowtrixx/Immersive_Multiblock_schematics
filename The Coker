@@ -1,0 +1,106 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 5",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 8,
+      "max_y": 22,
+      "max_z": 4
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 12,
+          "item": {
+            "id": "immersiveengineering:concrete"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 45,
+          "item": {
+            "id": "immersiveengineering:concrete_tile"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 47,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 162,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 46,
+          "item": {
+            "id": "immersiveengineering:slab_steel_scaffolding_grate_top"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 88,
+          "item": {
+            "id": "immersiveengineering:steel_fence"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 98,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:steel_slope"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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\u003d\u003d"
+}
