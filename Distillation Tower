@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 44",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 15,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 17,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 60,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 30,
+          "item": {
+            "id": "immersiveengineering:slab_steel_scaffolding_grate_top"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 25,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAK2VzW7TQBSFx3ecxHHS5hGoBGLLpmy6ZYsQCxZtN9YET1xL/pPttAlvwFsz9nymASIkfmIr557j3OvMp3gSK7VUYWp6Eyul5rGadb3pbaTCD6a06nVelrbt8kdrqyyvrG3zKrt5sObxmJwkSqu4c5Up8i+2dYNU7IcOxY8T35yd2PXWFkn32ex2dZG6JHFNVWraNFbxx7ZubNvntovU6snNaos6y2yqZjtTdFb9wd1fnL37rtjnadLkjf2/d3t59m5t95fo3p5HV5ht8iu/rHWdSV83Py0p7I+NVdpd+OflvTr/fR6s7UvbmyLJ27r6zbyl0k3dhS76qr6/AncML3GH9/r5ks9H1UpPXtDxg+F4Dm9BSI7Xk5+hc3RBX0RfRI7Xk1+iMbqib03fmhyvJ3+BXqKbk8X69Y6noJqV+kszFaAyqgynz1GZvMaPOnLwOSqhz/WUz8jRYI5HgwV+wbyIHJWIeVO+JEeDGI8GK/yKeWtyVNbMm/ILcjS4xKPBBr8BofIIA1RQPerIUeAo8BP4CfwEfgI/gZ/AT+An8BP4CfwEfgI/gZ/AT+An8BP4CfwEfgI/gZ/AT+An8BP4CfwEfgI/gZ/AT+An8BP4Cfw0/DT8NPx8zk/TcfOqBx05eR96L6ie8hk6Rxf0RfiIPlRP+RKN0RV9a/yaPtStW8dq7v6cUtu6Ylvvq7TTKizN4X5YnC9vn8s7V26GMq/u/PKH8v65vB2fQ7ffVcN+t3hXN8er6+tIzc2+f6hbFb2vnz61+eHg9rKTXS4aH96r7T4f9+LMpJntu5t0X5bH5GQz/AZHTzmnfQcAAA\u003d\u003d"
+}
