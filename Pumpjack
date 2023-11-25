@@ -1,0 +1,78 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 33",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 3,
+      "max_z": 5
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 11,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:storage_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:treated_fence"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAMVUTU/cMBCddZwlm/4IVq3aaw/cuHJFVQ8cgEtk8CRrKbEj22F3+fWMP6DbKpX4aCEHv/HM+L3nTJQaYAVcCi9qAKhrKJ0XHivgP8SA8F0NA1qn7hB1pzSiVbo7dR6xb9ytaFvTS8o0dEhLYWUN9U9rRrReoavg05a4bG+6DiWUregdAhRQO+IRvbpHC0E1GQjB7+qf/6JurOiwiS5ewHY8y9b2k5LNqEb8t96/znvfIPoBvehfbH/+ZXiL1CObFvXtnzfgW3Q+W5+9T0USZvKbpy1HcXCi1MY+Fd8+t/9hlXs7fYTTrPuO7/TbrNMNirt9c5B5M2Ovuo1/JeOXWUbrnkm3gmI0jlNqHfILSOuCZSzg8aESC0tsYRGLUI/5lGJ5w9ICPHRFZBlTifYRy0DBMg/hEliRyCAkIYsk8iL3PTriuc5znfAIFouMLGDs57m/zP2EVRZfhUTaE9awpNFKtBTcmElLR4cHsbsOh1N4GaRSeBUshlDpq2Q3hNe/wsuoSmPSYUxHZ2bcr09OKlgK+lKNhercbC+s2u3IxsF0quhyfTOp+JfvhOzQu1M5DcO+ORjiA2x1boxFBgAA"
+}
