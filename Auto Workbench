@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 48",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 1,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:conveyor_basic"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:slab_treated_wood_horizontal"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAMVTyU7DMBCdLN3MjS+ohMQVIXFAvXJFiAOHthdrUk8TS4kd2e6Sfj12EtFS9cAiRA4zT8+T55lnmwFMIBXokAHAiMHAOnQ0hvQFK4JbWVVkrNwSqVwqIiNVPitlXjh+wkACzHqEpTyQ8ULAOtEAPiveXVS0jqjkdoXrtS6FZ7j/SQk0ggF7Nbom4yTZMVztvJYpdZ6TgMEaS0vwjd1vLu6+0mpLjTY8QytXZzsO17gKIw6s3rjijzow9od23l+2s8SMO0O+UPCd1oIX2siDVg7Ls/FS19QEw0w7p6v/9DfdkXW/buDyhS0It80XHZ5AUmubeuoaTr6oj/FnAqI2xxC3OelXoi509T6nPRWHep8HoT7qReKPRRiGEPf1cV/f8T4zGPpJBBkWDmyjhE0grXC/DCIdnB/hIrQSoFSLrrcAl0c4bwfwzqng3OhJ18304dGfCPqLrg2Mn/Xuzcj93nty4ta4HXGabWT7UnMUOTk7E5uqaviJqe9jL5SWWwQAAA\u003d\u003d"
+}
