@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 37",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 2
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:conveyor_basic"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:slab_sheetmetal_iron"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAKWTO0/DMBCAz05aUvMTWCqBkJgYGJC6siLEwNB2idz4mlhK7Mh2+uDX4yQutFUGqkaR7iHfdy+bAUwgFtxxBgBjBiPruMME4g9eITzLqkJj5QZR5VIhGqnymXWIZWozvl7rUnhP6oOU4EYwYJ9G12icRJvA7dazTKnzHAWM1ry0CBABs57DS/mNxicF1hfQKqfZH4azF4iuQsfLVBqtLuDdD/IyrTa41yZdcSuzsw7Ga575Qx6kG1dc3dHTcEclX6VnbZ3VEbt9jTBeaed0dXUZw4MwNj0yL8A9DuJKmRfun8QJRLW2sXfdwdFHgqQHi/QWIb1NOxmFAwQI7W3ayTgEjUJk3B4j4e/9pDdoJzsOCRwSOCclkCAp/KJoqIcGDg0cGjg0cCiDcYFcoGHtGhslbARxxXfLlter8z91cVClWvQ9teryT513VfkNqHYDN2+63k9fXv2F5f6eagPJu95+Gbnb+dkeTT3pupiuGtk93JyLHJ2diaaq9unRcn4AlILh3hgEAAA\u003d"
+}
