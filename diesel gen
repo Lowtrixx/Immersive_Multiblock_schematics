@@ -1,0 +1,78 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 4",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 3,
+      "max_z": 4
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "minecraft:dirt"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "immersiveengineering:fluid_pipe"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:generator"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 13,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 13,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "immersiveengineering:radiator"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAK2TQW/bMAyFacnJXA/YrcduBQbsust2yXXXYdihh7YXQ4loV5htGZLcJPv1pSxmSQYDQ4oFQR75YH4kEboEuIJcq6BKAChKWPigAhaQ/1AdwnVnetw4VYdV45T31bq1m18llD+dHdAFg76gkt5u97CoVesRQELp0RnVmt/oCAplahCDc/oH03XovHlG7BtqRFV9s6rb0ehqMAP+1eftlmpda5sG9Su6vZ/t1mCPTgXrLiB9niX5gNhWfqPq2raanIqKeq2c/r97fJrt/oTqeV+dOBcQP84SnX8l7t3xaLRx4YLKm/lBlDb/+IeuQA7W52R9hZNPxioOWZayLEu54Dw9QD6rEOeIY2VUGX8nK8tSLibNJ0TUjFUccnk+SvanY/xOPME8wTzBPME80kXkJV+yzyokHCaWzJfMl8yXzJfMl8yXzJc8r2Qu6TIicublMU/N30Rj0oxVsNIDyWcVrERLPivNm5ewpJvV6ChY27HXnsxO7R5j0xTexxVS+BBXi6HpH9KaMXw8hvfT9nRIfTyk5Tc77G+/FLBUY3ii0ym+2+2dM7sdncrJERXTcrfr0UxvbKN0g8Gv9Nh1++rk1l4AL18qJicFAAA\u003d"
+}
