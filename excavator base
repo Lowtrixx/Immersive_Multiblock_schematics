@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Copy 11",
+    "author": "LowTrixx",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 2,
+      "max_y": 2,
+      "max_z": 5
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "immersiveengineering:heavy_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 9,
+          "item": {
+            "id": "immersiveengineering:light_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "immersiveengineering:radiator"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "immersiveengineering:rs_engineering"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "immersiveengineering:sheetmetal_steel"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "immersiveengineering:steel_scaffolding_standard"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAAAJ2Ty2rDMBBFx7KUOu43FAKl7bJkm223pXTRRZKNUaqJLfAjSHIe/frqFeqAKSRe6I5GV0djj5wDTIEKbngOAJMcmDbcYAb0gzcIT7JpUGm5R2xL2SIq2ZYLXSGaBg2vC20Qa0gh13aJ1/IHleVAHpguuAQ+jAIVF5KbTl0Beh4FVcj3p2KQuYL4OF6avhE3XmAty8rcSHwdb4brQKG/+Xbb1cJmbE94K7gSOeSfqtuhMhJ1BvcHy1J1V5YogG15rRH+OX0K6a7T1KZeYPAkcSQXCQKJ1xRIEvPRkEQlXulgh1PqxjBP4pw4TZz/gkTOxHg0OZdAAop4ZaEIq8SrX0odl3j1/jAnwReK8n4a/TT6afTT6KfRz6KfRT+Lfhb9LPpZDhN7IQUqG2y6vhU6Bdrw49pBQrh0O0K4OoeyXYXXcOH6L1x6vr0NrbsNd2/d7jSbzzOY8N5U9ufJ3rvDl5LHo+3doKuZ/2izTS/99Si5KNHoheib5lQMmv8L9GM+SwsEAAA\u003d"
+}
